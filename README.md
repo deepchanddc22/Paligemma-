@@ -10,7 +10,7 @@ PaliGemma is a versatile vision model for  generation tasks involving images. Th
 
 - Install the requirements
 - Use the jupyter notebook
-
+- [HuggingFace Blog](https://huggingface.co/blog/paligemma)
 ## Installation
 
 First, ensure you have Python and `pip` installed. Then, you can install the required packages using:
