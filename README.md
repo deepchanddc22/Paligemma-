@@ -1,6 +1,6 @@
 # PaliGemma
 
-![PaliGemma](https://path_to_your_image.jpg)
+![PaliGemma](https://github.com/deepchanddc22/Paligemma-/blob/99f1c18e80cfc845991b796d75af7f01d0c8c7d8/PaliGemma.png)
 
 ## Overview
 
